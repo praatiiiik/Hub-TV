@@ -1,0 +1,30 @@
+package com.example.hubtv.remote.ModelClass
+
+data class BannerSection(
+    val banner_permalink: String?,
+    val banner_text: String?,
+    val banner_type: String?,
+    val banner_url: String?,
+    val button_text: String?,
+    val button_type: Int?,
+    val content_types_id: String?,
+    val episode_no: String?,
+    val feed_url: String?,
+    val image_path: String?,
+    val is_converted: String?,
+    val is_livestream_enabled: Int?,
+    val movie_stream_uniq_id: String?,
+    val muvi_uniq_id: String?,
+    val other_sub_type: String?,
+    val parent_title: String?,
+    val poster_url: String?,
+    val preview_video_url: String?,
+    val release_date: String?,
+    val season_no: String?,
+    val story: String?,
+    val text_heading: String?,
+    val title: String?,
+    val video_duration: String?,
+    val video_on_banner: String?,
+    val web_link: String?
+)

@@ -1,6 +1,10 @@
 # Hub-TV
-Using MVVM architecture and repository pattern a simple app fetches data from API using retrofit2.
-Coroutine, flow, livedata.
+Programming Language used is Kotlin.
+Architecture Components for UI events.
+Dependency Injection Using Dagger Hilt.
+Async programming using Kotlin Coroutines. 
+Reactive Programming using Flows.
+Observable Data using Livedata.
 
 Demo Video: 
 

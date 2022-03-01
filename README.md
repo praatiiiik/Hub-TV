@@ -1,5 +1,6 @@
 # Hub-TV
-Fetches Data From API and  showing data to recycler view.
+Using MVVM architecture and repository pattern a simple app fetches data from API using retrofit2.
+Coroutine, flow, livedata.
 
 Demo Video: 
 
